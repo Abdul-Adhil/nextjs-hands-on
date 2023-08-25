@@ -1,0 +1,9 @@
+.card {
+  display: flex;
+  flex-flow: column wrap;
+  width: 300px;
+  .image{
+    display: flex;
+    align-items: center;
+  }
+}
